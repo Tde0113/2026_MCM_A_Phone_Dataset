@@ -1,2 +1,3 @@
 # 2026_MCM_A_Phone_Dataset
-Dataset of mobile phone parameters from self-conducted independent tests
+This repository houses datasets of mobile phone-related parameters from self-conducted independent tests, which are divided into training dataset and test dataset，with their respective application scenarios illustrated in the paper.The entire testing process was conducted in strict accordance with standardized operating procedures and unified parameter collection specifications, where the testing scenarios and operational steps are fully reproducible and traceable. No third-party data has been cited, and the data is free from any manual modification or tampering. Its consistency and validity fully meet the core data requirements for mathematical modeling and validation.
+
